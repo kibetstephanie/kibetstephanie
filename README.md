@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kibetstephanie
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning DevOps stuff
+- 🌱 I’m currently taking the cloud practioner course
 - 💞️ I’m looking to collaborate on Cloud Computing 
 
 <!---
