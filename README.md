@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kibetstephanie
-- 👀 Just interested in learning DevOps and stuff
+- 👀 Interested in learning DevOps and stuff
 
 <!---
 kibetstephanie/kibetstephanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
