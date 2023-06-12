@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephanie Kibet</h1>
-<h3 align="center">DevOps Engineer | System Administrator | Cloud Engineer</h3>
+<h3 align="center">DevOps Engineer | System Administrator</h3>
 
 - 🔭 I’m currently working on **my portfolio and tech blog**
 
