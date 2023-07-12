@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie Kibet</h1>
 <h3 align="center">DevOps Engineer | System Administrator</h3>
 
-- 🔭 I’m currently working on **my portfolio and tech blog**
-
-- 🌱 I’m currently learning **Kubernetes, Ansible and NodeJS**
+- 🌱 I’m currently learning **JavaScript and OCI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kibetstephanie](https://github.com/kibetstephanie)
 
