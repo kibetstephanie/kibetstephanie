@@ -1,7 +1,7 @@
 c<h1 align="center">Hi 👋, I'm Stephanie Kibet</h1>
-<h3 align="center">DevOps/Cloud Engineer | Network Security</h3>
+<h3 align="center">QA Engineering | Test Automation | CI/CD Automation | QA Methodologies & Practices | DevOps Engineering Practices</h3>
 
-- 🌱 I’m currently learning **Cloud and Network Security**
+<!-- - 🌱 I’m currently learning **Cloud and Network Securit**-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/kibetstephanie](https://github.com/kibetstephanie)
 
